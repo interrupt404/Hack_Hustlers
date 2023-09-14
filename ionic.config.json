@@ -1,0 +1,7 @@
+{
+  "name": "GovtBilling",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

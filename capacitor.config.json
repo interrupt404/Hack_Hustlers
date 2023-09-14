@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "react-webapp",
+  "webDir": "build",
+  "server": {
+    "url":"http://192.168.1.38:3000",
+    "cleartext": "true",
+    "androidScheme": "https"
+  }
+}
